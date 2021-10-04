@@ -1,0 +1,63 @@
+<Html>
+<head> 
+<title>
+Registration Page
+</title>
+</head>
+<body bgcolor="Lightskyblue">
+<br>
+<br>
+<form>
+
+<label> Firstname </label>       
+<input type="text" name="firstname" size="15"/> <br> <br>
+<label> Lastname: </label>       
+<input type="text" name="lastname" size="15"/> <br> <br>
+<label> DoB: </label>       
+<input type="text" name="dob" size="15"/> <br> <br>
+<label> Religion: </label>       
+<input type="text" name="religion" size="15"/> <br> <br>
+<label> Contact Information: </label>
+<label> Present Address: </label>       
+<input type="text" name="present address" size="15"/> <br> <br>
+<label> Contact Information: </label>
+<label> Permannt Address: </label>       
+<input type="text" name="permannt address" size="15"/> <br> <br>
+<label> Phone: </label>       
+<input type="text" name="Phone" size="15"/> <br> <br>
+<label> Email: </label>       
+<input type="text" name="email" size="15"/> <br> <br>
+<label> Personal Website Link: </label>       
+<input type="text" name="personal website link" size="15"/> <br> <br>
+
+
+
+Course :
+</label> 
+<select>
+<option value="Course">Course</option>
+<option value="BCA">BCA</option>
+<option value="BBA">BBA</option>
+<option value="B.Tech">B.Tech</option>
+<option value="MBA">MBA</option>
+<option value="MCA">MCA</option>
+<option value="M.Tech">M.Tech</option>
+</select>
+
+<br>
+<br>
+<label> 
+Gender :
+</label><br>
+<input type="radio" name="male"/> Male <br>
+<input type="radio" name="female"/> Female <br>
+<input type="radio" name="other"/> Other
+<br>
+<br>
+
+<label> 
+Phone :
+</label>
+<input type="text" name="country code"  value="+88" size="2"/> 
+<input type="text" name="phone" size="10"/> <br> <br>
+<br>
